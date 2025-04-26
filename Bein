@@ -1,0 +1,19 @@
+#EXTM3U
+
+# -- BeIN Sports 4K --
+#EXTINF:-1 tvg-logo="https://example.com/logos/bein_sports_1_4k.png" group-title="BeIN Sports", BeIN Sports 1 4K
+http://yourlink.com/bein/bein_sports_1_4k.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/logos/bein_sports_2_4k.png" group-title="BeIN Sports", BeIN Sports 2 4K
+http://yourlink.com/bein/bein_sports_2_4k.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/logos/bein_sports_3_4k.png" group-title="BeIN Sports", BeIN Sports 3 4K
+http://yourlink.com/bein/bein_sports_3_4k.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/logos/bein_sports_4_4k.png" group-title="BeIN Sports", BeIN Sports 4 4K
+http://yourlink.com/bein/bein_sports_4_4k.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/logos/bein_sports_5_4k.png" group-title="BeIN Sports", BeIN Sports 5 4K
+http://yourlink.com/bein/bein_sports_5_4k.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/logos/bein_sports_6_4k.png" group-title="BeIN Sports", BeIN Sports 6 4K
+http://yourlink.com/bein/bein_sports_6_4k.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/logos/bein_sports_7_4k.png" group-title="BeIN Sports", BeIN Sports 7 4K
+http://yourlink.com/bein/bein_sports_7_4k.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/logos/bein_sports_8_4k.png" group-title="BeIN Sports", BeIN Sports 8 4K
+http://yourlink.com/bein/bein_sports_8_4k.m3u8
